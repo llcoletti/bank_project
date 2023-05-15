@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "homepage": "https://llcoletti.github.io/bank_project",
-  "type": "module",
+  "type": "commonjs",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
